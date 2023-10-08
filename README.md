@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋 I'm YongJun, NEW AI engineer
 
 <!--
 **YongJun-Lee-98/YongJun-Lee-98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Main Stack
