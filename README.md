@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=#FFFFFF"/><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=#FFFFFF"/><img src="https://img.shields.io/badge/iPadOS-000000?style=flat-square&logo=Apple&logoColor=#FFFFFF"/>
 
 <img src="https://img.shields.io/badge/Android-FFFFFF?style=flat-square&logo=Android&logoColor=#F3DDC84"/><img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=FFFFFF"/>
+
+## Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJun-Lee-98&show_icons=true&theme=dark)
