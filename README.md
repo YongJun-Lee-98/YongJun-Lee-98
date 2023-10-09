@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Technology Stack
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/><img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/><img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=NumPy&logoColor=white"/><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=#000000"/>
 
 <img src="https://img.shields.io/badge/Mysql-FFFFFF?style=flat-square&logo=Mysql&logoColor=#4479A1"/><img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=flat-square&logo=FastAPI&logoColor=#009688"/><img src="https://img.shields.io/badge/scikitlearn-FFFFFF?style=flat-square&logo=scikit-learn&logoColor=#F7931E"/><img src="https://img.shields.io/badge/TensorFlow-FFFFFF?style=flat-square&logo=TensorFlow&logoColor=#F7931E"/><img src="https://img.shields.io/badge/PyTorch-FFFFFF?style=flat-square&logo=PyTorch&logoColor=#F7931E"/>
