@@ -37,4 +37,6 @@ Here are some ideas to get you started:
 
 
 ## Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJun-Lee-98&show=reviews&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YongJun-Lee-98&show=reviews&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YongJun-Lee-98&layout=compact&theme=tokyonight)
+
