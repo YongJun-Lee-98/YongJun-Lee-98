@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Project
-|python|
-|-----|
-|개발 커뮤니티(HelloPY) 백엔드 개발 [repositories](https://github.com/YongJun-Lee-98/hellopy-backend)|  
-
+|python|링크|
+|-----|----|
+|개발 커뮤니티(HelloPY) 백엔드 개발 [github](https://github.com/YongJun-Lee-98/hellopy-backend)|[site](https://hello-py.com/)|  
 
 
 ### Technology Stack
