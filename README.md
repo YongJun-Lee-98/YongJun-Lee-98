@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ## Project
-### 개발 커뮤니티(HelloPY) 백엔드 개발 
-HelloPY 파이썬을 좋아하는 사람들을 위한 커뮤니티   
-
-> [링크](https://github.com/YongJun-Lee-98/hellopy-backend)  
+|python|
+|-----|
+|개발 커뮤니티(HelloPY) 백엔드 개발 [repositories](https://github.com/YongJun-Lee-98/hellopy-backend)|  
 
 
 
