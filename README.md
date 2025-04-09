@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 |개발 커뮤니티(HelloPY) 백엔드 개발 [github](https://github.com/YongJun-Lee-98/hellopy-backend)|[site](https://hello-py.com/)|  
 |한글 자동화 프로젝트 [github](https://github.com/YongJun-Lee-98/Hangle-test-function-project)|-|
 
+### 학습
+language  
+[Python](https://github.com/YongJun-Lee-98/TL-S/tree/Python)  
+[Rust](https://github.com/YongJun-Lee-98/TL-S/tree/Rust)  
 
 ### Technology Stack
 
