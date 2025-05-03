@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 |python|ChatGPT markdown 변환 프로젝트 [github](https://github.com/YongJun-Lee-98/gpt-json-to-md)|-|
 
 ## Contribute
-|Package-name|Link|Description||
+|Package-name|Link|Description|
 |---|---|---|
 |Django-CKEditor-5|[Link](https://github.com/hvlads/django-ckeditor-5/pull/293)|class 활용한 CoUninitialize() 호출, 에러 대한 출력 함수(수정 전에는 COM 에러로 개발자들이 직관적으로 이해하기 어려운 출력을 수정) |
 |pyhwpx|[Link](https://github.com/martiniifun/pyhwpx/pull/9)| delete signal not removing image properly |
