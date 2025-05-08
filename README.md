@@ -20,12 +20,15 @@ Here are some ideas to get you started:
 |python|개발 커뮤니티(HelloPY) 백엔드 개발 [github](https://github.com/YongJun-Lee-98/hellopy-backend)|[site](https://hello-py.com/)|  
 |python, nodejs|한글 자동화 프로젝트 [github](https://github.com/YongJun-Lee-98/Hangle-test-function-project)|-|
 |python|ChatGPT markdown 변환 프로젝트 [github](https://github.com/YongJun-Lee-98/gpt-json-to-md)|-|
-
+<!--
+checker imoge
+⬜  ✅
+-->
 ## Contribute
 |Package-name|Link|Description|Merged|
 |---|---|---|---|
 |Django-CKEditor-5|[Link](https://github.com/hvlads/django-ckeditor-5/pull/293)|class 활용한 CoUninitialize() 호출, <br>에러 출력에 대한 함수(수정 전에는 COM 에러로 개발자들이 직관적으로 이해하기 어려운 출력을 수정) | ✅ |
-|pyhwpx|[Link](https://github.com/martiniifun/pyhwpx/pull/9)| delete signal not removing image properly | ⬜ |
+|pyhwpx|[Link](https://github.com/martiniifun/pyhwpx/pull/9)| delete signal not removing image properly | ✅ |
 
 ### Technology Stack
 
