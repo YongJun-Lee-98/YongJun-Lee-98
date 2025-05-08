@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## Project
 |Language|Project-name|Link|
 |----|-----|----|
-|python|개발 커뮤니티(HelloPY) 백엔드 개발 [github](https://github.com/YongJun-Lee-98/hellopy-backend)|[site](https://hello-py.com/)|  
-|python, nodejs|한글 자동화 프로젝트 [github](https://github.com/YongJun-Lee-98/Hangle-test-function-project)|-|
-|python|ChatGPT markdown 변환 프로젝트 [github](https://github.com/YongJun-Lee-98/gpt-json-to-md)|-|
+|python|개발 커뮤니티(HelloPY) 백엔드 개발 |[github](https://github.com/YongJun-Lee-98/hellopy-backend), [site](https://hello-py.com/)|  
+|python, nodejs|한글 자동화 프로젝트 |[github](https://github.com/YongJun-Lee-98/Hangle-test-function-project)|
+|python|ChatGPT markdown 변환 프로젝트|[github](https://github.com/YongJun-Lee-98/gpt-json-to-md)|
 <!--
 checker imoge
 ⬜  ✅
